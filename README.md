@@ -1,0 +1,1 @@
+# stringVariablesPractical
